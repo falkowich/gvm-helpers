@@ -1,0 +1,4 @@
+name;config_id;target;scanner_id;comment;alterable;schedule_id
+net01;daba56c8-73ec-11df-a475-002264764cea;net01;08b69003-5fc2-4037-a479-93b440211c73;FullnFast Net01;TRUE;
+net02;daba56c8-73ec-11df-a475-002264764cea;net02;08b69003-5fc2-4037-a479-93b440211c73;FullnFast Net02;TRUE;
+net03;daba56c8-73ec-11df-a475-002264764cea;net03;08b69003-5fc2-4037-a479-93b440211c73;FullnFast Net03;TRUE;

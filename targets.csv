@@ -1,0 +1,4 @@
+name;net;exclude;comment;ssh;smb
+net01;192.168.0.0/24;192.168.0.1;Net01 where all the magic is;ssh01;
+net02;192.168.1.0/24;192.168.1.1;Net02, this is not fun;;smb01
+net03;192.168.2.128/25;192.168.2.129;Net03, only half the fun;ssh01;smb01
